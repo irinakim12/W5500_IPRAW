@@ -1,0 +1,24 @@
+/**
+ * \mainpage Socket APIs
+ *
+ *  This Socket APIs provide guides to <b>WIZnet Hardwired TCP/IP Chips (WIZCHIP)</b> user.\n 
+ *  It contains not olny Socket APIs but also accessing registers, configuration and interface to @b WIZCHIP. \n
+ *  It proposes to integrate for user application program. It is easy to change the enhanced @b WIZCHIP and migrate user application.
+ * 
+ * @par Available WIZCHIP product
+ * <table width=0 >
+ * <tr> <td>\image html w5200_w5500.jpg </td> </tr>
+ * </table>
+ * - W5500  
+ * - W5200  
+ * - Available soon
+ *   - W5300
+ *   - W5100
+ *
+ * @par Version 1.0.0
+ *
+ * @par Release Notes
+ * - 2013/10/01 
+ *   - First Released V1.0.0
+ *  
+ */

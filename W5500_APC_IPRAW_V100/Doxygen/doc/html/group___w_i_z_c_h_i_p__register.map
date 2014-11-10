@@ -1,0 +1,5 @@
+<map id="WIZCHIP register" name="WIZCHIP register">
+<area shape="rect" id="node1" href="$group___w5500.html" title="WHIZCHIP register defines and I/O functions of W5500. " alt="" coords="6,31,69,57"/>
+<area shape="rect" id="node4" href="$group___common__register__group.html" title="Common register group &#160;It set the basic for the networking &#160;It set the configuration such as interrup..." alt="" coords="289,5,410,32"/>
+<area shape="rect" id="node3" href="$group___socket__register__group.html" title="Socket register group. &#160;Socket register configures and control SOCKETn which is necessary to data com..." alt="" coords="294,56,405,83"/>
+</map>
