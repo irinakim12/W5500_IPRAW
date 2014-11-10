@@ -1,0 +1,155 @@
+
+Allocating common symbols
+Common symbol       size              file
+
+gDATABUF            0x800             ..\obj\main.o
+
+Discarded input sections
+
+ .text.connect  0x00000000       0xd0 ..\obj\socket.o
+ .text.ctlsocket
+                0x00000000       0xd8 ..\obj\socket.o
+ .text.setsockopt
+                0x00000000      0x128 ..\obj\socket.o
+ .text.getsockopt
+                0x00000000      0x13c ..\obj\socket.o
+ .text.loopback_tcps
+                0x00000000      0x124 ..\obj\main.o
+ .text.loopback_udps
+                0x00000000       0xd4 ..\obj\main.o
+ .text.reg_wizchip_cris_cbfunc
+                0x00000000       0x20 ..\obj\wizchip_conf.o
+ .text.reg_wizchip_bus_cbfunc
+                0x00000000       0x2c ..\obj\wizchip_conf.o
+ .text.wizchip_sw_reset
+                0x00000000       0x78 ..\obj\wizchip_conf.o
+ .text.wizchip_clrinterrupt
+                0x00000000       0x20 ..\obj\wizchip_conf.o
+ .text.wizchip_getinterrupt
+                0x00000000       0x24 ..\obj\wizchip_conf.o
+ .text.wizchip_setinterruptmask
+                0x00000000       0x1c ..\obj\wizchip_conf.o
+ .text.wizchip_getinterruptmask
+                0x00000000       0x1c ..\obj\wizchip_conf.o
+ .text.wizphy_getphylink
+                0x00000000       0x10 ..\obj\wizchip_conf.o
+ .text.wizphy_getphypmode
+                0x00000000       0x18 ..\obj\wizchip_conf.o
+ .text.wizphy_reset
+                0x00000000       0x30 ..\obj\wizchip_conf.o
+ .text.wizphy_setphyconf
+                0x00000000       0x7c ..\obj\wizchip_conf.o
+ .text.wizphy_getphyconf
+                0x00000000       0x6c ..\obj\wizchip_conf.o
+ .text.wizphy_getphystat
+                0x00000000       0x1c ..\obj\wizchip_conf.o
+ .text.wizphy_setphypmode
+                0x00000000       0xb0 ..\obj\wizchip_conf.o
+ .text.wizchip_setnetinfo
+                0x00000000       0x58 ..\obj\wizchip_conf.o
+ .text.wizchip_getnetinfo
+                0x00000000       0x58 ..\obj\wizchip_conf.o
+ .text.wizchip_setnetmode
+                0x00000000       0x28 ..\obj\wizchip_conf.o
+ .text.wizchip_getnetmode
+                0x00000000        0x8 ..\obj\wizchip_conf.o
+ .text.wizchip_settimeout
+                0x00000000       0x28 ..\obj\wizchip_conf.o
+ .text.wizchip_gettimeout
+                0x00000000       0x28 ..\obj\wizchip_conf.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ .text.socket   0x08000154      0x188 ..\obj\socket.o
+                0x08000154                socket
+ .text.close    0x080002dc       0x64 ..\obj\socket.o
+                0x080002dc                close
+ .text.listen   0x08000340       0xc4 ..\obj\socket.o
+                0x08000340                listen
+ .text.disconnect
+                0x08000404       0xe0 ..\obj\socket.o
+                0x08000404                disconnect
+ .text.send     0x080004e4      0x1ac ..\obj\socket.o
+                0x080004e4                send
+ .text.recv     0x08000690      0x170 ..\obj\socket.o
+                0x08000690                recv
+ .text.sendto   0x08000800      0x148 ..\obj\socket.o
+                0x08000800                sendto
+ .text.recvfrom
+                0x08000948      0x1f4 ..\obj\socket.o
+                0x08000948                recvfrom
+ .text.wizchip_cris_enter
+                0x08001b78        0x4 ..\obj\wizchip_conf.o
+                0x08001b78                wizchip_cris_enter
+ .text.wizchip_cris_exit
+                0x08001b7c        0x4 ..\obj\wizchip_conf.o
+                0x08001b7c                wizchip_cris_exit
+ .text.wizchip_cs_select
+                0x08001b80        0x4 ..\obj\wizchip_conf.o
+                0x08001b80                wizchip_cs_select
+ .text.wizchip_cs_deselect
+                0x08001b84        0x4 ..\obj\wizchip_conf.o
+                0x08001b84                wizchip_cs_deselect
+ .text.wizchip_bus_readbyte
+                0x08001b88        0x4 ..\obj\wizchip_conf.o
+                0x08001b88                wizchip_bus_readbyte
+ .text.wizchip_bus_writebyte
+                0x08001b8c        0x4 ..\obj\wizchip_conf.o
+                0x08001b8c                wizchip_bus_writebyte
+ .text.wizchip_spi_readbyte
+                0x08001b90        0x4 ..\obj\wizchip_conf.o
+                0x08001b90                wizchip_spi_readbyte
+ .text.wizchip_spi_writebyte
+                0x08001b94        0x4 ..\obj\wizchip_conf.o
+                0x08001b94                wizchip_spi_writebyte
+ .text.reg_wizchip_cs_cbfunc
+                0x08001b98       0x20 ..\obj\wizchip_conf.o
+                0x08001b98                reg_wizchip_cs_cbfunc
+ .text.reg_wizchip_spi_cbfunc
+                0x08001bb8       0x2c ..\obj\wizchip_conf.o
+                0x08001bb8                reg_wizchip_spi_cbfunc
+ .text.ctlnetwork
+                0x08001be4      0x134 ..\obj\wizchip_conf.o
+                0x08001be4                ctlnetwork
+ .text.wizchip_init
+                0x08001d18      0x178 ..\obj\wizchip_conf.o
+                0x08001d18                wizchip_init
+ .text.ctlwizchip
+                0x08001e90      0x348 ..\obj\wizchip_conf.o
+                0x08001e90                ctlwizchip
+ .text.WIZCHIP_READ
+                0x080021d8       0x3c ..\obj\w5500.o
+                0x080021d8                WIZCHIP_READ
+ .text.WIZCHIP_WRITE
+                0x08002214       0x40 ..\obj\w5500.o
+                0x08002214                WIZCHIP_WRITE
+ .text.WIZCHIP_READ_BUF
+                0x08002254       0x70 ..\obj\w5500.o
+                0x08002254                WIZCHIP_READ_BUF
+ .text.WIZCHIP_WRITE_BUF
+                0x080022c4       0x74 ..\obj\w5500.o
+                0x080022c4                WIZCHIP_WRITE_BUF
+ .text.getSn_TX_FSR
+                0x08002338      0x104 ..\obj\w5500.o
+                0x08002338                getSn_TX_FSR
+ .text.getSn_RX_RSR
+                0x0800243c      0x104 ..\obj\w5500.o
+                0x0800243c                getSn_RX_RSR
+ .text.wiz_send_data
+                0x08002540      0x114 ..\obj\w5500.o
+                0x08002540                wiz_send_data
+ .text.wiz_recv_data
+                0x08002654      0x114 ..\obj\w5500.o
+                0x08002654                wiz_recv_data
+ .text.wiz_recv_ignore
+                0x08002768       0xf0 ..\obj\w5500.o
+                0x08002768                wiz_recv_ignore
+                
+ .data          0x20000000        0x2 ..\obj\socket.o
+ .data          0x20000004       0x18 ..\obj\main.o
+                0x20000004                gWIZNETINFO
+ .data          0x2000001c       0x20 ..\obj\wizchip_conf.o
+                0x2000001c                WIZCHIP
+ .bss           0x200000bc       0x20 ..\obj\socket.o
+ .bss           0x2000011c        0x8 ..\obj\wizchip_conf.o

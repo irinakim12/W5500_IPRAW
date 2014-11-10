@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window>
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar/>
+<page focus="true" label="Workspace - CooCox CoBuilder">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="9"/>
+<part id="10"/>
+<part id="8"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/main.c" title="main.c" tooltip="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/main.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5292" selectionTopPixel="1830"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="ping.h" partName="ping.h" path="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/Internet/PING/ping.h" title="ping.h" tooltip="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/Internet/PING/ping.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/Internet/IPRAW/ping.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="228" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="wizchip_conf.c" partName="wizchip_conf.c" path="I:/0_Project/W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140113/Ethernet/wizchip_conf.c" title="wizchip_conf.c" tooltip="I:/0_Project/W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140113/Ethernet/wizchip_conf.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/Ethernet/wizchip_conf.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="15390" selectionTopPixel="7826"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="wizchip_conf.h" partName="wizchip_conf.h" path="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/Ethernet/wizchip_conf.h" title="wizchip_conf.h" tooltip="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/Ethernet/wizchip_conf.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/Ethernet/wizchip_conf.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3013" selectionTopPixel="5654"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="socket.h" partName="socket.h" path="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/Ethernet/socket.h" title="socket.h" tooltip="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/Ethernet/socket.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/Ethernet/socket.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="1000"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="ping.c" partName="ping.c" path="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/Internet/PING/ping.c" title="ping.c" tooltip="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/Internet/PING/ping.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/Internet/IPRAW/ping.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6455" selectionTopPixel="3111"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="w5500.c" partName="w5500.c" path="I:/0_Project/W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140113/Ethernet/W5500/w5500.c" title="w5500.c" tooltip="I:/0_Project/W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140113/Ethernet/W5500/w5500.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/Ethernet/W5500/w5500.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="10910" selectionTopPixel="2040"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="w5500.h" partName="w5500.h" path="I:/0_Project/W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140123/Ethernet/W5500/w5500.h" title="w5500.h" tooltip="I:/0_Project/W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140123/Ethernet/W5500/w5500.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/Ethernet/W5500/w5500.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="10" selectionOffset="69312" selectionTopPixel="25260"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="xsysctl.h" partName="xsysctl.h" path="I:/0_Project/W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140123/CoX/CoX_Peripheral/inc/xsysctl.h" title="xsysctl.h" tooltip="I:/0_Project/W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140123/CoX/CoX_Peripheral/inc/xsysctl.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/CoX/CoX_Peripheral/inc/xsysctl.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="62" selectionOffset="65054" selectionTopPixel="28515"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="xsysctl.c" partName="xsysctl.c" path="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/CoX/CoX_Peripheral/src/xsysctl.c" title="xsysctl.c" tooltip="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/CoX/CoX_Peripheral/src/xsysctl.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/CoX/CoX_Peripheral/src/xsysctl.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="540"/>
+</editor>
+<editor id="org.coocox.builder.ui.editors.ConfigEditor" name="" partName="Configuration" title="Configuration" tooltip="" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">&#x0A;<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="2" verticalPosition="0"/>
+</input>
+</editor>
+<editor id="org.coocox.builder.ui.editors.ConfigEditor" name="" partName="Configuration" title="Configuration" tooltip="" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">&#x0A;<org.coocox.builder.ui.editors.ConfigEditor/>
+</input>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="socket.c" partName="socket.c" path="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/Ethernet/socket.c" title="socket.c" tooltip="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/Ethernet/socket.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/Ethernet/socket.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="11782" selectionTopPixel="8848"/>
+</editor>
+<editor id="org.coocox.builder.ui.editors.ConfigEditor" name="" partName="Configuration" title="Configuration" tooltip="" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">&#x0A;<org.coocox.builder.ui.editors.ConfigEditor/>
+</input>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stdio.h" partName="stdio.h" title="stdio.h" tooltip="C:\Program Files\GNU Tools ARM Embedded\4.7 2013q2\arm-none-eabi\include\stdio.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" path="C:\Program Files\GNU Tools ARM Embedded\4.7 2013q2\arm-none-eabi\include\stdio.h" project="WIZCHIPTest"/>
+<editorState selectionHorizontalPixel="0" selectionLength="32" selectionOffset="6017" selectionTopPixel="2805"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="xuart.c" partName="xuart.c" path="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/CoX/CoX_Peripheral/src/xuart.c" title="xuart.c" tooltip="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/CoX/CoX_Peripheral/src/xuart.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/CoX/CoX_Peripheral/src/xuart.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="29182" selectionTopPixel="13875"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="xuart.h" partName="xuart.h" path="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/CoX/CoX_Peripheral/inc/xuart.h" title="xuart.h" tooltip="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/CoX/CoX_Peripheral/inc/xuart.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/CoX/CoX_Peripheral/inc/xuart.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="41576" selectionTopPixel="15180"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="startup_coide.c" partName="startup_coide.c" path="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/startup_coide.c" title="startup_coide.c" tooltip="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/startup_coide.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/startup_coide.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5604" selectionTopPixel="1575"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="_ansi.h" partName="_ansi.h" title="_ansi.h" tooltip="C:\Program Files\GNU Tools ARM Embedded\4.7 2013q2\arm-none-eabi\include\_ansi.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" path="C:\Program Files\GNU Tools ARM Embedded\4.7 2013q2\arm-none-eabi\include\_ansi.h" project="WIZCHIPTest"/>
+<editorState selectionHorizontalPixel="0" selectionLength="6" selectionOffset="1757" selectionTopPixel="645"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="syscalls.c" partName="syscalls.c" path="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/syscalls/syscalls.c" title="syscalls.c" tooltip="I:/2014_WORK/1_W5500/IPRAW/1_Work/w5500_example_ipraw_stm32f103x_coide_20140205/syscalls/syscalls.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/WIZCHIPTest/syscalls/syscalls.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1859" selectionTopPixel="905"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="reent.h" partName="reent.h" title="reent.h" tooltip="C:\Program Files\GNU Tools ARM Embedded\4.7 2013q2\arm-none-eabi\include\sys\reent.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" path="C:\Program Files\GNU Tools ARM Embedded\4.7 2013q2\arm-none-eabi\include\sys\reent.h" project="WIZCHIPTest"/>
+<editorState selectionHorizontalPixel="0" selectionLength="6" selectionOffset="5117" selectionTopPixel="2595"/>
+</editor>
+<editor id="org.coocox.builder.ui.editors.repository.RepositoryBrowser" name="Repository" partName="Repository" title="Repository" tooltip="Repository" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory">&#x0A;<subPage horizontalPosition="0" selectedItemId="31" subPageIndex="2" verticalPosition="0"/>
+</input>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.debug.ui.ExpressionView" partName="Expressions">
+<viewState>
+<ExpressionKeySet ExpKeys="ulAHBDivider,ulFreqout/ulAHBDivider,ulPreDiv,"/>
+</viewState>
+</view>
+<view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
+<viewState CommonNavigator.LINKING_ENABLED="1" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="26">
+<expanded>
+<element path="/WIZCHIPTest"/>
+<element path="/WIZCHIPTest/CoX"/>
+<element path="/WIZCHIPTest/CoX/CoX_Peripheral"/>
+<element path="/WIZCHIPTest/CoX/CoX_Peripheral/inc"/>
+<element path="/WIZCHIPTest/CoX/CoX_Peripheral/src"/>
+<element path="/WIZCHIPTest/Ethernet"/>
+<element path="/WIZCHIPTest/Ethernet/W5500"/>
+<element path="/WIZCHIPTest/Internet"/>
+<element path="/WIZCHIPTest/Internet/IPRAW"/>
+<element path="/WIZCHIPTest/syscalls"/>
+</expanded>
+<selection>
+<element path="/WIZCHIPTest/Internet/IPRAW/ping.c"/>
+</selection>
+</viewState>
+</view>
+<view id="org.coocox.component.ui.ComponentView" partName="Components">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.RegisterView" partName="Registers">
+<viewState/>
+</view>
+<view id="org.coocox.builder.ui.exampleView" partName="xUART Examples">
+<viewState>
+<Examples ComponentId="489" Title="xUART"/>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.cdt.dsf.debug.ui.disassembly.view" partName="Disassembly">
+<viewState disassembly.syncActiveContext="true" disassembly.trackExpression="false"/>
+</view>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="org.coocox.builder.perspective.CoBuilder">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.builder.ui.PerspectiveCoBuilder" id="org.coocox.builder.perspective.CoBuilder" label="CooCox CoBuilder"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.coocox.userspace.actionSet"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
+<hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
+<hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<view id="org.coocox.component.ui.ComponentView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.coocox.builder.ui.exampleView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@192caa9">
+<folder activePageID="org.coocox.component.ui.ComponentView" appearance="2" expanded="2">
+<page content="org.coocox.component.ui.ComponentView" label="Components"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.ui.internal.ViewStack@192caa9">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1989b13" ratio="0.76080084" ratioLeft="722" ratioRight="227" relationship="4" relative="org.eclipse.ui.internal.ViewStack@192caa9">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@e926a3" ratio="0.21610169" ratioLeft="255" ratioRight="925" relationship="2" relative="org.eclipse.ui.internal.ViewStack@192caa9">
+<folder activePageID="org.coocox.builder.ui.exampleView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.exampleView" label="xUART Examples"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@e664ac" ratio="0.71411264" ratioLeft="1179" ratioRight="472" relationship="2" relative="org.eclipse.ui.internal.ViewStack@e926a3">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.coocox.component.ui.Help" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
+<page content="org.coocox.builder.ui.MoreExampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.040333796" ratioLeft="29" ratioRight="690" relationship="4" relative="org.eclipse.ui.internal.ViewStack@e926a3"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@3736ac" ratio="0.36965376" ratioLeft="363" ratioRight="619" relationship="4" relative="org.eclipse.ui.internal.ViewStack@192caa9">
+<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.codebugger.configuration.ui.Perspective" id="org.coocox.codebugger.configuration.perspective" label="CoDebugger"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFolder"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_menu_item_id id="org.eclipse.ui.file.save"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAll"/>
+<hide_menu_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openFile"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAs"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.projectMenu"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.flashMenu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.debug"/>
+<hide_menu_item_id id="org.coocox.builder.ui.showHelpViewAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_menu_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.build"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_menu_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.TargetManageAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newProject"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_toolbar_item_id id="org.eclipse.ui.file.save"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideFlashEraseAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.debug"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.build"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideProgramDownloadAction"/>
+<hide_toolbar_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.debug.ui.ExpressionView"/>
+<view id="org.eclipse.debug.ui.RegisterView"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<view id="org.eclipse.cdt.dsf.debug.ui.disassembly.view"/>
+<fastViewBars/>
+<viewLayoutRec closeable="false" id="org.eclipse.debug.ui.DebugView"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@7c4a95">&#x0A;<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.ui.internal.ViewStack@7c4a95">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@4f3c06" ratio="0.6993464" ratioLeft="642" ratioRight="276" relationship="4" relative="org.eclipse.ui.internal.ViewStack@7c4a95">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@19ea5ae" ratio="0.5" ratioLeft="956" ratioRight="956" relationship="2" relative="org.eclipse.ui.internal.ViewStack@4f3c06">&#x0A;<folder activePageID="org.eclipse.debug.ui.ExpressionView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="Expressions"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="Registers"/>
+<page content="org.coocox.codebugger.trace.ui.traceview" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.MemoryView" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@10bf6dd" ratio="0.6870612" ratioLeft="685" ratioRight="312" relationship="2" relative="org.eclipse.ui.internal.ViewStack@7c4a95">&#x0A;<folder activePageID="org.eclipse.cdt.dsf.debug.ui.disassembly.view" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="Disassembly"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView_debug" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.29986054" ratioLeft="430" ratioRight="1004" relationship="2" relative="org.eclipse.ui.internal.ViewStack@7c4a95"/>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/WIZCHIPTest/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/WIZCHIPTest/Internet/IPRAW/ping.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/WIZCHIPTest/Internet/IPRAW/ping.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/WIZCHIPTest/Ethernet/wizchip_conf.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/WIZCHIPTest/Ethernet/socket.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/WIZCHIPTest/Ethernet/socket.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/WIZCHIPTest/syscalls/syscalls.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/WIZCHIPTest/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/WIZCHIPTest/Internet/IPRAW/ping.c"/>
+</editors>
+<item historyLabel="ping.h" index="2">
+<position info="not_deleted" x="242" y="0"/>
+</item>
+<item historyLabel="ping.c" index="1">
+<position info="not_deleted" x="1507" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="4677" y="0"/>
+</item>
+<item historyLabel="ping.c" index="1">
+<position info="not_deleted" x="1699" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="4886" y="0"/>
+</item>
+<item historyLabel="ping.h" index="2">
+<position info="not_deleted" x="129" y="89"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="4555" y="0"/>
+</item>
+<item historyLabel="ping.c" index="1">
+<position info="not_deleted" x="1699" y="0"/>
+</item>
+<item historyLabel="ping.h" index="2">
+<position info="not_deleted" x="161" y="13"/>
+</item>
+<item historyLabel="ping.c" index="1">
+<position info="not_deleted" x="2343" y="12"/>
+</item>
+<item historyLabel="ping.h" index="2">
+<position info="not_deleted" x="161" y="13"/>
+</item>
+<item historyLabel="ping.c" index="1">
+<position info="not_deleted" x="8180" y="6"/>
+</item>
+<item historyLabel="ping.h" index="2">
+<position info="not_deleted" x="161" y="13"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="4555" y="0"/>
+</item>
+<item historyLabel="socket.h" index="4">
+<position info="not_deleted" x="5716" y="0"/>
+</item>
+<item historyLabel="socket.h" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="230" y="0"/>
+</item>
+<item historyLabel="wizchip_conf.h" index="3">
+<position info="not_deleted" x="3013" y="0"/>
+</item>
+<item historyLabel="ping.h" index="2">
+<position info="not_deleted" x="161" y="13"/>
+</item>
+<item historyLabel="ping.c" index="1">
+<position info="not_deleted" x="3083" y="10"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="230" y="0"/>
+</item>
+<item historyLabel="socket.h" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position/>
+</item>
+<item historyLabel="ping.h" index="2">
+<position info="not_deleted" x="186" y="7"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1121" y="0"/>
+</item>
+<item historyLabel="wizchip_conf.h" index="3">
+<position info="not_deleted" x="3013" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1148" y="0"/>
+</item>
+<item historyLabel="ping.h" index="2">
+<position info="not_deleted" x="186" y="7"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="4888" y="0"/>
+</item>
+<item historyLabel="ping.c" index="1">
+<position info="not_deleted" x="3083" y="10"/>
+</item>
+<item historyLabel="ping.h" index="2">
+<position info="not_deleted" x="228" y="0"/>
+</item>
+<item historyLabel="ping.c" index="1">
+<position info="not_deleted" x="3114" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="4888" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="4877" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="4753" y="7"/>
+</item>
+<item historyLabel="wizchip_conf.h" index="3">
+<position info="not_deleted" x="3013" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="3163" y="0"/>
+</item>
+<item historyLabel="ping.c" index="1">
+<position info="not_deleted" x="3114" y="0"/>
+</item>
+<item historyLabel="socket.c" index="5">
+<position info="not_deleted" x="11782" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="3163" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="4678" y="0"/>
+</item>
+<item historyLabel="ping.c" index="1">
+<position info="not_deleted" x="285" y="9"/>
+</item>
+<item historyLabel="ping.c" index="1">
+<position info="not_deleted" x="950" y="0"/>
+</item>
+<item historyLabel="ping.c" index="1">
+<position info="not_deleted" x="4284" y="8"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="4125" y="0"/>
+</item>
+<item historyLabel="ping.c" index="1">
+<position info="not_deleted" x="1236" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="4769" y="1"/>
+</item>
+<item historyLabel="syscalls.c" index="6">
+<position info="not_deleted" x="1809" y="0"/>
+</item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="4769" y="1"/>
+</item>
+<item active="true" historyLabel="ping.c" index="8">
+<position info="not_deleted" x="1236" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory" id="org.coocox.builder.ui.editors.repository.RepositoryBrowser" name="Repository" tooltip="Repository">
+<persistable>&#x0A;<subPage/>
+</persistable>
+</file>
+<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stdio.h" tooltip="C:\Program Files\GNU Tools ARM Embedded\4.7 2013q2\arm-none-eabi\include\stdio.h">
+<persistable path="C:\Program Files\GNU Tools ARM Embedded\4.7 2013q2\arm-none-eabi\include\stdio.h" project="WIZCHIPTest"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="syscalls.c" tooltip="1111/syscalls/syscalls.c">
+<persistable path="/1111/syscalls/syscalls.c"/>
+</file>
+<file factoryID="org.coocox.component.board.ui.editor.BoardEditorElementFactory" id="org.coocox.component.board.ui.editor.BoardBrowserEditor" name="Board" tooltip="Board">
+<persistable>&#x0A;<subPage/>
+</persistable>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="1111/main.c">
+<persistable path="/1111/main.c"/>
+</file>
+<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="reent.h" tooltip="C:\Program Files\GNU Tools ARM Embedded\4.7 2013q2\arm-none-eabi\include\sys\reent.h">
+<persistable path="C:\Program Files\GNU Tools ARM Embedded\4.7 2013q2\arm-none-eabi\include\sys\reent.h" project="WIZCHIPTest"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="syscalls.c" tooltip="WIZCHIPTest/syscalls/syscalls.c">
+<persistable path="/WIZCHIPTest/syscalls/syscalls.c"/>
+</file>
+<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="_ansi.h" tooltip="C:\Program Files\GNU Tools ARM Embedded\4.7 2013q2\arm-none-eabi\include\_ansi.h">
+<persistable path="C:\Program Files\GNU Tools ARM Embedded\4.7 2013q2\arm-none-eabi\include\_ansi.h" project="WIZCHIPTest"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="dhcp.c" tooltip="WIZCHIPTest/Internet/DHCP/dhcp.c">
+<persistable path="/WIZCHIPTest/Internet/DHCP/dhcp.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="startup_coide.c" tooltip="WIZCHIPTest/startup_coide.c">
+<persistable path="/WIZCHIPTest/startup_coide.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="xuart.h" tooltip="WIZCHIPTest/CoX/CoX_Peripheral/inc/xuart.h">
+<persistable path="/WIZCHIPTest/CoX/CoX_Peripheral/inc/xuart.h"/>
+</file>
+<file factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory" id="org.coocox.builder.ui.editors.repository.RepositoryBrowser" name="Repository" tooltip="Repository">
+<persistable>&#x0A;<subPage/>
+</persistable>
+</file>
+<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stdio.h" tooltip="C:\Program Files\GNU Tools ARM Embedded\4.7 2013q2\arm-none-eabi\include\stdio.h">
+<persistable path="C:\Program Files\GNU Tools ARM Embedded\4.7 2013q2\arm-none-eabi\include\stdio.h" project="WIZCHIPTest"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="syscalls.c" tooltip="1111/syscalls/syscalls.c">
+<persistable path="/1111/syscalls/syscalls.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="xuart.h" tooltip="WIZCHIPTest/CoX/CoX_Peripheral/inc/xuart.h">
+<persistable path="/WIZCHIPTest/CoX/CoX_Peripheral/inc/xuart.h"/>
+</file>
+</mruList>
+</workbench>
